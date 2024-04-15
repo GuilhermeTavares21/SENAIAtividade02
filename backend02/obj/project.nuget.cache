@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0vGtqF22mDR6fGSC8B92aa5IkOAafFMSmroz3mQXrtVaDLQYP2rGzNm5dYfFuLubtPHmPg02U86jueQpOzd7mA==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\SENAI-EXERCICIOS\\backend01\\backend02\\backend02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guitp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\guitp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\guitp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\guitp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\Code\SENAI-EXERCICIOS\backend01\backend02\bin\Debug\net6.0\backend02.exe
+D:\Code\SENAI-EXERCICIOS\backend01\backend02\bin\Debug\net6.0\backend02.deps.json
+D:\Code\SENAI-EXERCICIOS\backend01\backend02\bin\Debug\net6.0\backend02.runtimeconfig.json
+D:\Code\SENAI-EXERCICIOS\backend01\backend02\bin\Debug\net6.0\backend02.dll
+D:\Code\SENAI-EXERCICIOS\backend01\backend02\bin\Debug\net6.0\backend02.pdb
+D:\Code\SENAI-EXERCICIOS\backend01\backend02\obj\Debug\net6.0\backend02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\SENAI-EXERCICIOS\backend01\backend02\obj\Debug\net6.0\backend02.AssemblyInfoInputs.cache
+D:\Code\SENAI-EXERCICIOS\backend01\backend02\obj\Debug\net6.0\backend02.AssemblyInfo.cs
+D:\Code\SENAI-EXERCICIOS\backend01\backend02\obj\Debug\net6.0\backend02.csproj.CoreCompileInputs.cache
+D:\Code\SENAI-EXERCICIOS\backend01\backend02\obj\Debug\net6.0\backend02.dll
+D:\Code\SENAI-EXERCICIOS\backend01\backend02\obj\Debug\net6.0\refint\backend02.dll
+D:\Code\SENAI-EXERCICIOS\backend01\backend02\obj\Debug\net6.0\backend02.pdb
+D:\Code\SENAI-EXERCICIOS\backend01\backend02\obj\Debug\net6.0\backend02.genruntimeconfig.cache
+D:\Code\SENAI-EXERCICIOS\backend01\backend02\obj\Debug\net6.0\ref\backend02.dll
